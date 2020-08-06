@@ -1,6 +1,6 @@
 # Live Object Detection using Tensorflow
 
-![alt text](http://url/to/Tensorflow-Object-Detection.png)
+![Optional Text](C:\Users\Microsoft\Desktop\Tensorflow-Object-Detection.png)
 
 
 
