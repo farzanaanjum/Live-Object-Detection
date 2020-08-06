@@ -1,7 +1,6 @@
 # Live Object Detection using Tensorflow
 
-!(C:\Users\Microsoft\Desktop\Tensorflow-Object-Detection.png)
-
+![alt text](https://www.digitalvidya.com/wp-content/uploads/2019/02/Tensorflow-Object-Detection-1280x720.jpg)
 
 
 ### Here all image, video and live program for teing images using tensorflow
