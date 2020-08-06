@@ -21,7 +21,7 @@
 ####  Other programs are explained detaily in my medium blog. You can see here
 
 
-Link
+https://medium.com/@farranaanjum05/object-detection-using-tensorflow-api-3d261a27c141
 
 
 
