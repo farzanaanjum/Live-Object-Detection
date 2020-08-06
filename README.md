@@ -3,7 +3,7 @@
 ![alt text](https://www.digitalvidya.com/wp-content/uploads/2019/02/Tensorflow-Object-Detection-1280x720.jpg)
 
 
-#### Here all image, video and live program for teing images using tensorflow
+#### In this repository i uploaded image, video and live program for testing:
 
 1. image.py
 
@@ -18,7 +18,10 @@
 ####  This program for live testing or real-time testing.
 
 
-####  Others programs are explained detaily in my medium blogs.
+####  Other programs are explained detaily in my medium blog. You can see here
+
+
+Link
 
 
 
